@@ -16,8 +16,5 @@
 			"Enabled": true,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/c4b43502026047d89296cd7bffd92828"
 		}
-	],
-	"AdditionalPluginDirectories": [
-		"../../../../../Downloads/Utilities/LudusAI_UE5.6.1_v0.8.3"
 	]
 }
